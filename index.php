@@ -4,6 +4,9 @@
     <li><a href="001-class-dan-object/coba.php">class dan object-1</a></li>
     <ul>
         <li><a href="001-class-dan-object/book.php">atribute dan method : book</a></li>
+        <ul>
+            <li><a href="001-class-dan-object/user.php">user</a></li> 
+        </ul>
         <li><a href="001-class-dan-object/produk.php">atribute dan method : produk</a></li>
         <li><a href="001-class-dan-object/latihan.php">latihan-1</a></li>
     </ul>
@@ -45,5 +48,13 @@
         <li><a href="006-abstraksi/interface.php">interface</a></li>
         <li><a href="006-abstraksi/autoloader/index.php">autoloader</a></li>
         <li><a href="006-abstraksi/namespace/index.php">namespace</a></li>
+    </ul>
+    <li><a href="#">auth-login-7</a></li>
+    <ul>
+        <li><a href="007-auth-login/login.php">auth: login</a></li>
+    </ul>
+    <li><a href="#">file-upload-7</a></li>
+    <ul>
+        <li><a href="008-file-upload/upload.php">file: upload</a></li>
     </ul>
 </ul>
